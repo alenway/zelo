@@ -1,6 +1,6 @@
 // Components
-import Header from "@/components/Header/page"
-import Footer from "@/components/Footer/page"
+import Header from "@/components/header/page"
+import Footer from "@/components/footer/page"
 
 // Fonts
 import type { Metadata } from "next";
