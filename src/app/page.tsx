@@ -1,5 +1,3 @@
-import MessageForm from '@/components/message/MessageForm'
-import MessageList from '@/components/message/MessageList'
 import React from 'react'
 
 type Props = {}
@@ -9,8 +7,6 @@ const Home = (props: Props) => {
     <>
 
     <div>Home</div>
-    <MessageForm/>
-    <MessageList/>
     </>
   )
 }
